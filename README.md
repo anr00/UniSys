@@ -1,4 +1,4 @@
-# UniSys ⚽ 
+# UniSys
 
 ### Sistema de gerenciamento de instituições educacionais.
 
