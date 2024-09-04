@@ -8,26 +8,23 @@
 <br>Realizar cadastro
 <br>Realizar login
 <br>Realizar a matrícula
-<br>Cursar a disciplina
-<br>Assistir as aulas 
-<br>Realizar provas
+<br>Selecionar disciplinas
 
 
 **Pessoas físicas (responsáveis dos estudantes)**: 
 <br>Realizar a matrícula 
 
 
-**Professores**:
+**Docentes (CLT e PJ)**:
+<br>Realizar cadastro
+<br>Realizar login
+<br>Selecionar disciplinas a ministrar
 <br>Upload de aulas
-<br>Correção de provas
-
-
-**Demais docentes**:
-<br>Upload de palestras
 
 **Fornecedores**:
-<br>Pedido de insumos
-<br>Pagamento de insumos
+<br>Realizar cadastro
+<br>Realizar login
+<br>Subir insumos ao sistema
 
 
 
