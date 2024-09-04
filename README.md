@@ -30,7 +30,6 @@
 
 **Diagrama de casos de uso**:
 
-![image](https://github.com/user-attachments/assets/dad6b745-170c-4fa8-bd0a-b82adcdb5d01)
 ![image](https://github.com/user-attachments/assets/6bf1d29f-a3a9-4fd7-8fbc-1616d93707bd)
 
 
@@ -61,8 +60,12 @@
 ![image](https://github.com/user-attachments/assets/49f8bd16-38b5-43e0-bbe0-265dd75a63b7)
 
 
-### Devs
-<a href="https://github.com/camism7" target="_blank">Camila Solér</a><br>
-<a href="https://github.com/TulioHAraujo" target="_blank"> Túlio Araujo</a><br>
-<a href="https://github.com/milsonbsilva" target="_blank">Milson Silva</a><br>
-<a href="https://github.com/anr00" target="_blank">André Ribeiro</a><br>
+**Telas de Insumos**
+![image](https://github.com/user-attachments/assets/f57a3504-1339-4779-ae42-32d781d26845)
+![image](https://github.com/user-attachments/assets/f59bc8d9-911f-41fa-b273-3eaebbe4d1b1)
+
+
+**Telas de Gerenciamento de Aulas e Provas**
+![image](https://github.com/user-attachments/assets/0edb0c5e-0545-465e-802a-81cf9d13cf62)
+![image](https://github.com/user-attachments/assets/6b9ee7ae-414b-465f-9f6a-c5009645279e)
+
