@@ -39,6 +39,7 @@ ___
 
 ___
 ## **Protótipo Telas**
+*Todas as telas propostas, [clique aqui](https://www.canva.com/design/DAGPLVXv_hA/79hHGt1ktIgTUGkz4Lg4HA/view?utm_content=DAGPLVXv_hA&utm_campaign=designshare&utm_medium=link&utm_source=editor)*
 
 ### :computer: **Tela Inicial**
 
@@ -74,6 +75,6 @@ ___
 ### Grupo 1 - Projeto Integrador Senac
 - [André](https://github.com/anr00)
 - [Camila](https://github.com/camism7)
-- Lohanne
+- [Lohanne](https://github.com/LohanneTC)
 - [Milson](https://github.com/milsonbsilva)
 - [Túlio](https://github.com/TulioHAraujo)
